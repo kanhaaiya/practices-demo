@@ -1,4 +1,4 @@
 # practices-demo
 this is my first git repository 
 <br>
-Author - Kanhaaiya
+Author - Kanhaaiya lal
